@@ -1,4 +1,4 @@
-package proxy_test
+package controllers_test
 
 import (
 	"context"
